@@ -3,6 +3,7 @@ PixiJS — The HTML5 Creation Engine
 
 ![pixi.js logo](https://pixijs.download/pixijs-banner-v5.png)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4f728d13493d4097850dde4f9965e9cc)](https://app.codacy.com/app/alfie.sherin/pixi.js?utm_source=github.com&utm_medium=referral&utm_content=elpiels/pixi.js&utm_campaign=Badge_Grade_Dashboard)
 [![Inline docs](http://inch-ci.org/github/pixijs/pixi.js.svg?branch=dev)](http://inch-ci.org/github/pixijs/pixi.js)
 [![Build Status](https://travis-ci.org/pixijs/pixi.js.svg?branch=dev)](https://travis-ci.org/pixijs/pixi.js)
 
